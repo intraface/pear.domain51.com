@@ -6,10 +6,10 @@
     <servers>
         <primary>
             <rest>
-                <baseurl type="REST1.0">http://pear.domain51.com//rest/</baseurl>
-                <baseurl type="REST1.1">http://pear.domain51.com//rest/</baseurl>
-                <baseurl type="REST1.2">http://pear.domain51.com//rest/</baseurl>
-                <baseurl type="REST1.3">http://pear.domain51.com//rest/</baseurl>
+                <baseurl type="REST1.0">/rest/</baseurl>
+                <baseurl type="REST1.1">/rest/</baseurl>
+                <baseurl type="REST1.2">/rest/</baseurl>
+                <baseurl type="REST1.3">/rest/</baseurl>
             </rest>
         </primary>
     </servers>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://pear.domain51.com/">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://domain51.github.io/pear.domain51.com/">
     <title>Domain51 PEAR channel Latest Releases</title>
-    <link href="http://pear.domain51.com/" />
+    <link href="http://domain51.github.io/pear.domain51.com/" />
     <author>
-        <name>http://pear.domain51.com/</name>
+        <name>http://domain51.github.io/pear.domain51.com/</name>
     </author>
 
     <entry>
         <title>Phing_d51PearPkg2Task 0.6.3 (alpha)</title>
-        <link href="http://pear.domain51.com//get/Phing_d51PearPkg2Task-0.6.3.tgz" />
+        <link href="/get/Phing_d51PearPkg2Task-0.6.3.tgz" />
         <id>Phing_d51PearPkg2Task-0.6.3</id>
         <author>
             <name>tswicegood</name>

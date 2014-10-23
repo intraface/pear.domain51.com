@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://domain51.github.io/pear.domain51.com/">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://intraface.github.io/pear.domain51.com/">
     <title>Domain51 PEAR channel Latest Releases</title>
-    <link href="http://domain51.github.io/pear.domain51.com/" />
+    <link href="http://intraface.github.io/pear.domain51.com/" />
     <author>
         <name>http://domain51.github.io/pear.domain51.com/</name>
     </author>
